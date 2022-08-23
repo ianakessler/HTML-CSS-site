@@ -3,4 +3,4 @@
 Primeiro projeto de site, seguindo as aulas do Curso em Video.
 
 
-<a href="https://ianakessler.github.io/HTML-CSS-site/">Visite o projeto</a>
+<a href="https://ianakessler.github.io/HTML-CSS-site/" target="_blank">Visite o projeto</a>
